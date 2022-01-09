@@ -40,9 +40,7 @@ export async function main(ns) {
 	var buy_prices = []
 
 	var profit = 0
-	ns.installBacDkdoor()
-
-
+	
 	while (true) {
 		potential = []
 		buy_prices = []
